@@ -79,7 +79,7 @@
 <h3 align="center">
   <p> Profile View's</p>
 <div align="center">
- <img src="https://profile-counter.glitch.me/ayushsahane/count.svg?"  />
+ <img src="https://profile-counter.glitch.me/bhaveshtrue/count.svg?"  />
 </div>
 <h3/>
 
@@ -87,10 +87,10 @@
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayushsahane&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=yeblu&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushsahane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=yeblu&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ayushsahane&locale=en&mode=daily&theme=yeblu&hide_border=false&border_radius=5&order=3" height="auto" width="655" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ayushsahane&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="auto" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushsahane&radius=16&theme=react&area=true&order=5" height="auto" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaveshtrue&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=yeblu&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=bhaveshtrue&locale=en&mode=daily&theme=yeblu&hide_border=false&border_radius=5&order=3" height="auto" width="655" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=bhaveshtrue&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="auto" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaveshtrue&radius=16&theme=react&area=true&order=5" height="auto" alt="activity-graph graph"  />
 </div>
 
 ###
